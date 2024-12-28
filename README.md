@@ -1,4 +1,4 @@
-# Martins Onovo | Data Analyst Portfolio  
+  
 
 Welcome to my data analysis portfolio! This repository showcases my projects, skills, and accomplishments as a data analyst. You can explore my work, and feel free to connect with me for collaboration opportunities.  
 
@@ -64,7 +64,7 @@ Check out my live portfolio at: [Martins Onovo Portfolio](https://onovo-martins.
 ## 📫 Connect with Me  
 
 - **GitHub:** [@Onovo-Martins](https://github.com/Onovo-Martins)  
-- **LinkedIn:** [Martins Onovo](https://www.linkedin.com/in/onovomartins/))  
+- **LinkedIn:** [Martins Onovo](https://www.linkedin.com/in/onovomartins/)
 - **Twitter:** [Martins_warlike](https://x.com/Martins_Warlike)  
 - **Email:** Onovomartins9@gmail.com
 ---
