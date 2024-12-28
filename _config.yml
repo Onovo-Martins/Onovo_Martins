@@ -1,0 +1,39 @@
+# Site configuration for GitHub Pages
+title: "Martins Onovo | Data Analyst Portfolio"
+description: "Explore my data analysis projects, insights, and dashboards showcasing impactful solutions for business problems."
+show_downloads: true
+theme: minima
+url: "https://Onovo-Martins.github.io" # Update this with your actual GitHub Pages URL
+
+# Navigation menu
+header_pages:
+  - index.md
+  - projects.md
+  - about.md
+  - contact.md
+
+# Social links
+social_links:
+  github: https://github.com/Onovo-Martins
+  linkedin: https://www.linkedin.com/in/martins-onovo
+  twitter: https://twitter.com/<Martins_Warlike>
+  email: mailto:<onovomartins9@gmail.com>
+
+# Plugins for enhanced functionality
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-archives
+
+# Pagination settings
+paginate: 5 # Number of blog posts per page
+
+
+# Footer customization
+footer_text: "© 2024 Martins Onovo. All Rights Reserved."
+
+# Other settings
+markdown: kramdown
+permalink: pretty
