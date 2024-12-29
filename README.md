@@ -6,7 +6,7 @@ Welcome to my data analysis portfolio! This repository showcases my projects, sk
 
 ## 🌟 About Me  
 
-I’m **Martins Onovo**, a data analyst passionate about transforming raw data into actionable insights. With proficiency in tools like **Power BI**, **Excel**, **SQL**, and **Python**, I specialize in uncovering trends, optimizing business strategies, and delivering data-driven solutions.  
+I’m **Onovo Martins**, a data analyst passionate about transforming raw data into actionable insights. With proficiency in tools like **Power BI**, **Excel**, **SQL**, and **Python**, I specialize in uncovering trends, optimizing business strategies, and delivering data-driven solutions.  
 
 ---
 
