@@ -23,9 +23,8 @@ I’m **Onovo Martins**, a data analyst passionate about transforming raw data i
 ## Education 🎓
 
 ### Bachelor's Degree in Economics  
-**Enugu State University Of Science and Technology** (2019–2023)  
-- I specialized in economics, microeconomics, and macroeconomics.  
-- Developed a strong foundation in analytical thinking and problem-solving.
+**Enugu State University Of Science and Technology** 
+(2019–2023)  
 ---
 
 ## 📂 Featured Projects  
@@ -66,7 +65,7 @@ Check out my live portfolio at: [Martins Onovo Portfolio](https://onovo-martins.
 - **GitHub:** [@Onovo-Martins](https://github.com/Onovo-Martins)  
 - **LinkedIn:** [Martins Onovo](https://www.linkedin.com/in/onovomartins/)
 - **Twitter:** [Martins_warlike](https://x.com/Martins_Warlike)  
-- **Email:** Onovomartins9@gmail.com
+- **Email:** [Onovomartins9@gmail.com]
 ---
 
 ## 📜 License  
